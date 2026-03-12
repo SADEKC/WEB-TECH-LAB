@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: chocolate;
+}
+
+.calculator {
+    width: 220px;
+    margin: auto;
+    background-color: lightgrey;
+    padding: 20px;
+}
+
+#display {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 45px;
+    height: 40px;
+    font-size: 18px;
+    margin: 3px;
+}
